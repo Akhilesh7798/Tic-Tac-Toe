@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-I created a simple and responsive **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript.
+I created a simple and responsive **Tic-Tac-Toe** game using HTML, CSS, and JavaScript.
 
 - The game board consists of 9 clickable boxes arranged in a 3x3 grid.
 - Two players alternate turns: Player O and Player X.
